@@ -1,0 +1,16 @@
+<style>
+    body, h1, h2, h3, h4, h5, h6 {font-family: "Montserrat", sans-serif}
+    .w3-row-padding img {margin-bottom: 12px}
+    .w3-sidebar {width: 120px; background: #004D40;} /* Dark teal for the sidebar */
+    #main {margin-left: 120px}
+    
+    /* Colors for page elements */
+    body {background-color: #E0F7FA;} /* Light cyan for background */
+    .w3-black {background-color: #00796B !important;} /* Dark teal for headers */
+    .w3-dark-grey {background-color: #004D40 !important;} /* Dark teal for bars */
+    .w3-light-grey {background-color: #B2DFDB !important;} /* Light teal for sections */
+    
+    /* Button and text color changes */
+    .w3-button.w3-light-grey {background-color: #004D40; color: white;}
+    .w3-hover-black:hover {background-color: #00796B !important;}
+</style>
